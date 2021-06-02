@@ -1,3 +1,6 @@
+
+![imagem](https://github.com/vqrca/bootcamp_alura_aulas/blob/main/banner_bootcamp.png)
+
 # **Bootcamp de Data Science Aplicada**
 
 ## **Módulo 01: Python e pandas para análise de dados reais**

@@ -11,7 +11,6 @@ Neste módulo vamos aprender como utilizar Python, Pandas e Matplotlib para expl
 
 🚀 Projeto realizado: [Análise dos Gastos Hospitalares do SUS (Sistema Único de Saúde) e Evolução das Taxas de Mortalidade no Brasil](https://github.com/vqrca/bootcamp_alura_projeto_1)
 
-
 ## **Módulo 02: Visualização de dados com Seaborn e Matplotlib**
 Neste módulo seguiremos nas análises dos dados financeiros do SUS. Vamos mais fundo no tratamento e manipulação dos dados para análises mais complexas, utilizando recursos mais avançados do Pandas e da Linguagem Python como um todo.
 Fontes de dados externas serão utilizadas para enriquecer a análise exploratória e realizar comparações mais precisas entre os diferentes estados. Além disso, discutiremos mais sobre boas práticas de visualização, interpretação de gráficos e sua construção com o Seaborn.

@@ -21,6 +21,9 @@ Fontes de dados externas serão utilizadas para enriquecer a análise explorató
 Neste módulo vamos descobrir o que são séries temporais e estudar suas particularidades.
 Todo arcabouço teórico adquirido até aqui será aplicado para o entendimento das nuances envolvendo as séries temporais. Da estatística descritiva, passando pela análise exploratória e chegando às previsões, sempre de forma aplicada e prática utilizando ferramentas específicas para esse tipo de dados, como o StatisModel e Prophet desenvolvido pelo Facebook.
 
+
+🚀 Projeto realizado: [Cenários e efeitos da pandemia causada pelo novo coronavírus SARS-CoV-2 no Amazonas: Análise e previsão de séries temporais com a biblioteca Prophet](https://github.com/vqrca/bootcamp_alura_projeto_3)
+
 ## **Módulo 04: Tratamento, análise e Machine Learning aplicado**
 Estamos chegando na reta final, e este módulo dará início ao desenvolvimento de um projeto prático que passará por todo o workflow em Data Science, do entendimento do problema, tratamento e análise dos dados até a proposta de solução utilizando Machine Learning.
 Vamos trabalhar com dados da COVID-19 do hospital Sírio Libanês, focando este módulo no tratamento e análise de dados para entender profundamente o problema que estamos lidando e propor possíveis soluções.
